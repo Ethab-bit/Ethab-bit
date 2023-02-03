@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ethab-bit
+- 👋 Hi, I’m Ethan
 
 <!---
 Ethab-bit/Ethab-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
