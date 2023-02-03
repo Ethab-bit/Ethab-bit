@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ethab-bit
-- 👀 I’m interested in learning to code
 - 🌱 I’m currently learning the basics
 - 📫 How to reach me does github even have direct messaging?
 
